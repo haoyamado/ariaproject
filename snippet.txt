@@ -1,0 +1,12 @@
+<model-viewer src="1.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" shadow-intensity="2" environment-image="legacy" exposure="0.32">
+    <button class="Hotspot" slot="hotspot-2" data-position="38.7502033871649m 466.6499938964844m 12.400029063628153m" data-normal="0m 1m 0m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Кожух защиты привода</div>
+    </button><button class="Hotspot" slot="hotspot-4" data-position="87.03225611396988m -4.412300354318859m 178.14999389648438m" data-normal="0m 0m 1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Терморегулятор</div>
+    </button><button class="Hotspot" slot="hotspot-5" data-position="-15m 47.79393576288999m -60.17501635618737m" data-normal="-1m 0m 0m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Заслонка</div>
+    </button>
+    <div class="progress-bar hide" slot="progress-bar">
+        <div class="update-bar"></div>
+    </div>
+</model-viewer>
